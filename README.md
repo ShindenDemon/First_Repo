@@ -1,4 +1,4 @@
-# First_Repo
+# First Repo
 ## Practice repo
 
-Editing the file.
+Data Science Course task.
